@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://lilian:lilian@devconnectorcluster-l6orl.mongodb.net/test?retryWrites=true&w=majority"
+}
